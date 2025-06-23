@@ -23,7 +23,7 @@ Desenvolver um sistema simples de gestão de salas de reunião e geração de c�
 
 🧑‍🤝‍🧑 Gestão de códigos de acesso
 
-    ✅ Gerar um código único de acesso para uma sala
+    ✅ Gerar códigos de acesso para a sala
 
         - O código deve ser único (ex: UUID, hash ou string aleatória)
         - O código pode ter um apelido opcional
